@@ -67,6 +67,7 @@ INFORMAÇÕES DAS COLUNAS:
 - rv2: Variável aleatória 2, adimensional
 
 VALORES FALTANDO: zero.
+
 -----------------------------------------------------------------------------------------------
 ---Informações do Dataset Smart Grid Stability:---
 
@@ -91,6 +92,7 @@ INFORMAÇÕES DAS COLUNAS:
 - stabf:	classificações de estabilidade
 
 VALORES FALTANDO: zero.
+
 -----------------------------------------------------------------------------------------------
 ---Informações do Dataset Solar Radiation Prediction:---
 
